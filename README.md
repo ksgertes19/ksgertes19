@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ksgertes19
 - 👀 I’m interested in new javascript frameworks
-- 🌱 I’m currently learning Nuxt Js
+- 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on other javascript devs
 - 📫 How to reach me ...
 
